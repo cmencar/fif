@@ -2,6 +2,7 @@ package fif_core;
 
 
 /**This class provides an abstraction for different types of filters.
+ * 
  * @author Troiano Lorenzo
  * @version 1.0
  */
